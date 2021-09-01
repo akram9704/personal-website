@@ -55,6 +55,6 @@ section{
     background-repeat: no-repeat;
 }
 
-.image-center{
-    float: left;
+.clear{
+    clear: both;
 }
