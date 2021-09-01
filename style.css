@@ -55,6 +55,7 @@ section{
     background-repeat: no-repeat;
 }
 
-.clear{
+.latest-work-banner{
     clear: both;
+    background-color: red;
 }
