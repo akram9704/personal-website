@@ -18,6 +18,7 @@ p{
 section{
     height: 500px;
     width: 100%;
+    clear: both;
 }
 
 .half-width{
@@ -53,9 +54,15 @@ section{
 .latest-work-banner{
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
+    text-align:center;
 }
 
-.latest-work-banner{
-    clear: both;
-    background-color: red;
+.image-align{
+    width: 33.33%;
+    float: left;
+    
+}
+
+.image-align img{
+    height:100%;
 }
