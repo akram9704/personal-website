@@ -56,13 +56,3 @@ section{
     background-repeat: no-repeat;
     text-align:center;
 }
-
-.image-align{
-    width: 33.33%;
-    float: left;
-    
-}
-
-.image-align img{
-    height:100%;
-}
