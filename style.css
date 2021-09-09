@@ -55,4 +55,46 @@ section{
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
     text-align:center;
+    background-position: center;
+}
+
+
+.row{
+    display: flex;
+    justify-items: center;
+
+}
+
+.review{
+    text-align: center;
+}
+
+.client-area{
+    width: 100%;
+    clear: both;
+    display: flex;
+    justify-items: center;
+}
+
+.info{
+    background-color: solid black;
+    clear: both;
+    text-decoration: none;
+    font-weight: 500px;
+    text-align: center;
+}
+
+.contact-me{
+    clear: both;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+
+.row{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.row img{
+    width: 33.33%;
 }
